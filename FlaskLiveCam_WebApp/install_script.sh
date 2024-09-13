@@ -12,8 +12,8 @@ sudo apt-get install libxvidcore-dev -y
 sudo apt-get install libx264-dev -y
 sudo apt-get install libqtgui4 -y
 sudo apt-get install libqt4-test -y
-sudo pip3 install flask
-sudo pip3 install numpy
-sudo pip3 install opencv-contrib-python
-sudo pip3 install imultils
-sudo pip3 install opencv-python
+sudo python -m pip install flask --break-system-packages
+sudo python -m pip install numpy --break-system-packages
+sudo python -m pip install opencv-contrib-python --break-system-packages
+sudo python -m pip install imultils --break-system-packages
+sudo python -m pip install opencv-python --break-system-packages
