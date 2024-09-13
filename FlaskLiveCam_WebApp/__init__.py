@@ -19,6 +19,9 @@ app = Flask(__name__)
 =======
 # Uses __init__.py file for app configuration
 #app.config.from_object('config')
+<<<<<<< HEAD
 >>>>>>> 6d2af5d (updated the scripts to force updates)
+=======
+>>>>>>> nerdboyq
 
 from FlaskLiveCam_WebApp import views
