@@ -15,7 +15,5 @@ else:
 from flask import Flask
 
 app = Flask(__name__)
-# Uses __init__.py file for app configuration
-app.config.from_object('config')
 
 from FlaskLiveCam_WebApp import views
