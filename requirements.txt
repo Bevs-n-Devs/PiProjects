@@ -1,0 +1,8 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+# numpy==1.22.3
+# opencv-python==4.7.0.68
+pandas
+SQLAlchemy
+tflite-support
